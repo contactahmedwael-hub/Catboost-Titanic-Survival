@@ -2,7 +2,7 @@
 
 Predicting who survived the Titanic with **CatBoost**, a gradient boosting algorithm that handles categorical data natively. Built for the CatBoost Activity Day project.
 
-**Live app:** _add your Streamlit link here_
+**Live app:** https://catboost-titanic-survival-fs.streamlit.app/
 
 ## What we did
 
